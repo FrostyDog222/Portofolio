@@ -462,6 +462,11 @@ body:not(.user-is-tabbing) a:focus {
     }
 }
 
+.bigger__image{
+    height: 650px;
+    width: 800px
+}
+
 .work__links {
     display: flex;
     align-items: center;
